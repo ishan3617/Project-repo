@@ -1,5 +1,6 @@
 console.log("hello i");
-hrere
 
-console.log(Hy);
-console.log(By);
+console.log('Hy');
+console.log('By');
+console.log('Byyyy');
+
